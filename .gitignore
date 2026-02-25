@@ -1,5 +1,7 @@
-# Python Env
+# Python cache
 venv
+__pycache__
+.DS.Store
 
 # others
 # virtual_env.md

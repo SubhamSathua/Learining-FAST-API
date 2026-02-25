@@ -1,0 +1,52 @@
+Here is a **clear, structured prompt** you can give to an Agent to generate short but detailed documentation-style notes for your knowledge management folder:
+
+---
+
+## 📌 Prompt for Writing Notes (For Obsidian Knowledge System)
+
+* Write notes in **documentation style**, point-wise and structured.
+* Keep the notes **concise but detailed** (short notes, but conceptually complete).
+* Use proper **Markdown formatting** for Obsidian:
+
+  * `#` → Main Topic
+  * `##` → Subtopic
+  * `###` → Sub-subtopic
+* Avoid excessive use of `---` (horizontal rules).
+* Use bullet points instead of long paragraphs.
+* Keep explanations crisp and structured.
+* Add examples where needed.
+* Add formulas (if any) in proper Markdown format.
+* Add code blocks if relevant.
+* Keep each section scannable.
+* Avoid storytelling style.
+* Avoid fluff.
+* Prefer clarity over length.
+
+---
+
+## 📂 File Naming Rules
+
+* Use:
+  `1-topic-name.md` → For main topic
+  `1.1-subtopic-name.md` → For detailed subtopic
+  `1.1.1-deep-subtopic.md` → If further breakdown is required
+
+* If a topic becomes large with multiple examples:
+
+  * Create a new sub-file.
+  * Cross-reference related files using Obsidian linking format:
+    `[[1.1-subtopic-name]]`
+
+---
+
+## 🧠 Writing Style Guidelines
+
+* Use technical clarity.
+* Write in neutral tone.
+* Keep structure consistent across all notes.
+* Prefer lists over paragraphs.
+* Highlight important terms using **bold**.
+* Use inline code formatting for keywords, commands, variables.
+* Keep explanations modular (each section independent but connected).
+
+---
